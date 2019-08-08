@@ -10,3 +10,6 @@ echo "mohamed";
 
 
 echo "amr";
+
+
+echo 1 + 1;
